@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drivers Alert</string>
+    <string name="need_camera_permissions">Camera permission required</string>
+    <string name="label_recording">Record</string>
+    <string name="intro_message">Introduction message</string>
+    <string name="camera_error">Camera error</string>
+    <string name="stop">Stop</string>
+    <string name="record">Record</string>
+</resources>

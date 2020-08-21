@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "172725170064",
+    "firebase_url": "https://drivers-alert-51fbe.firebaseio.com",
+    "project_id": "drivers-alert-51fbe",
+    "storage_bucket": "drivers-alert-51fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172725170064:android:cc25c7b7d2e9859cab8d15",
+        "android_client_info": {
+          "package_name": "com.example.driversalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172725170064-drh3cj9e0e203lvt29f1kgb51k8f1k7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5HnQtOLaoFj4e8Q0sAuBpmw6Xmub1B_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172725170064-drh3cj9e0e203lvt29f1kgb51k8f1k7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

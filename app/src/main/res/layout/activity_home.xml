@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/n"
+        android:layout_marginTop="50dp">
+
+    </ImageView>
+
+
+    <Button
+        android:id="@+id/dash_Cam_Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dash Cam"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/sleep_detector_button"
+        android:layout_marginBottom="10dp"
+        android:background="@color/myViolet"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:layout_marginStart="40dp">
+
+    </Button>
+
+    <Button
+        android:id="@+id/sleep_detector_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sleep Deector"
+        android:layout_centerHorizontal="true"
+        android:background="@color/myViolet"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:layout_marginBottom="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="40dp">
+    </Button>
+
+
+
+</RelativeLayout>
